@@ -3,7 +3,7 @@
 <body>
 <div class="container">
     <h1>Flutter Project Template</h1>
-    <p>A Flutter project template with Clean Architecture and MVVM pattern.</p>
+    <p>A Flutter project template with Clean Architecture, MVVM pattern, and Riverpod.</p>
     <h2>Dependencies</h2>
     <p>This project uses the following third-party dependencies:</p>
     <h3>Dependencies</h3>
