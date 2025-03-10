@@ -21,7 +21,6 @@
         <li><strong>flutter_launcher_icons</strong> <br>Customizes app launcher icons.</li>
         <li><strong>permission_handler</strong> <br>Manages app permissions.</li>
         <li><strong>flutter_dotenv</strong> <br>Loads environment variables from a .env file.</li>
-        <li><strong>flutter_gen</strong> <br>Code generation for assets, fonts, and more.</li>
     </ul>
     <h3>Dev Dependencies</h3>
     <ul>
